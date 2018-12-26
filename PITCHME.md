@@ -1,7 +1,7 @@
 
 ### 광주_3반_정준영
 GitHub : https://github.com/jjy0602/elice_git.git<br>
-GitPitch : https://gitpitch.com/jjy0602/elice_git
+GitPitch : https://gitpitch.com/jjy0602/elice_git<br>
 블로그주소 : https://cocobono.github.io/pagodot/
 ---
 ### 1. 스펙(Specification)
