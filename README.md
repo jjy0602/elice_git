@@ -1,7 +1,7 @@
 ===
 ### 광주_3반_정준영, GitHub : https://github.com/jjy0602/elice_git.git
 
-===
+
 ### 1. 스펙(Specification)
 ---
 구현된 어플리케이션의 주요 기능 작성
