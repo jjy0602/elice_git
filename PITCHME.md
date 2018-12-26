@@ -1,6 +1,7 @@
 
-### 광주_3반_정준영, GitHub : https://github.com/jjy0602/elice_git.git
-
+### 광주_3반_정준영
+GitHub : https://github.com/jjy0602/elice_git.git<br>
+GitPitch : https://gitpitch.com/jjy0602/elice_git
 ---
 ### 1. 스펙(Specification)
 
